@@ -1,5 +1,5 @@
 <h1 align="center">Hola!! 👋, soy Franco Emanuel Medina</h1>
-<h3 align="center">I am a passionate fullstack developer from Argentina</h3>
+<h3 align="center">Progrmador Full Stack Developer</h3>
 
 •🌱 Actualmente estoy aprendiendo **TypeScript**
 
