@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Franco Emanuel Medina</h1>
+<h1 align="center">Hola!! 👋, soy Franco Emanuel Medina</h1>
 <h3 align="center">I am a passionate fullstack developer from Argentina</h3>
 
 •🌱 Actualmente estoy aprendiendo **TypeScript**
