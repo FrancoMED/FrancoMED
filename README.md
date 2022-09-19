@@ -4,7 +4,6 @@
 🌱 Actualmente estoy aprendiendo **TypeScript**
 
 </br>
-</br>
 <div>
     <h1>Sobre mi:</h1>
 </div>
@@ -46,7 +45,6 @@ Mis objetivos son seguir desarrollando mis habilidades ya que soy muy autocritic
     <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" alt="cloudinary" width="40" height="40"/> </a>
 </div>
 </br>
-</br>
 <div>
     <h1>Proyectos:</h1>
 </div>
@@ -64,9 +62,9 @@ Mis objetivos son seguir desarrollando mis habilidades ya que soy muy autocritic
     <img src="https://media.giphy.com/media/TwsklCF525y7XbZl3c/giphy.gif" width="30%" alt="pag gaed.jm 3"/>
 </div>
 </br>
-<h2>
+<h3>
 Descripción:
-</h2>
+</h3>
 
 E-commerce de indumentaria y calzado que por parte de un usuario común tiene las siguientes posibilidades:
 
@@ -89,13 +87,12 @@ Por parte del administrador son:
 - Crear/Editar/Eliminar productos.
 - Eliminar Reviews de usuarios.
 
-<h2>
+<h3>
 Lenguajes y Librerías:
-</h2>
+</h3>
 
 JavaScript, ReactJS, Redux, Mercado Pago, Auth0, Socket.IO, Bootstrap, NodeJS, ExpressJS, PostgreSQL y Sequelize ORM
 
-</br>
 </br>
 <div>
     <h1>Conectate conmigo:</h1>
